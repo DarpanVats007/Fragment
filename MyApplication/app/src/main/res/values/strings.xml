@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="ButtonCaption">Find your flights</string>
+    <string-array name="Origins">
+        <item>Delhi</item>
+        <item>Mumbai</item>
+        <item>Kolkata</item>
+
+    </string-array>
+
+    <string-array name="Destinations">
+        <item>Hydrabad</item>
+        <item>Kolkata</item>
+        <item>Banglore</item>
+    </string-array>
+</resources>
